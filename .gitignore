@@ -1,0 +1,13 @@
+*.exe
+*.dll
+*.lib
+*.obj
+*.vcxproj.user
+*.vcxproj.filters
+
+/Debug/
+/Release/
+/x64/Debug/
+/x64/Release/
+/build/
+*.vs/
